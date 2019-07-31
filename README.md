@@ -10,9 +10,9 @@
 
 These are a few of the questions that we will help you answer during this journey. 
 
-Most Visited Cities in the World 
+### Most Visited Cities in the World 
 
-Insert marker picture here
+![](https://github.com/pablojordan/Project_1/blob/master/images/actualcitiesinproject.png)
 
 ## Scope
 
@@ -24,24 +24,29 @@ In the Resources/Presentation folder you will see how we answer some of the foll
 4. Deep dive - Data Analysis and Visualization 
 
 
-Most Visited Cities in the World during December 2019 with respect to quotes received
+### Results - Most Visited Cities in the World during December 2019 with respect to number of quotes received
 
-Insert heat map picture here
+#### SATELLITE Heat-Map
+![](https://github.com/pablojordan/Project_1/blob/master/images/heatmapsattellitemapvisitedcities.png)
+
+#### ROAD Heat-Map
+
+![](https://github.com/pablojordan/Project_1/blob/master/images/heatmaproadmapvisitedcities.png)
 
 ## Files Navigation 
 
-1. Final Files Jupyter Notebook - Five Files
-	a. Final Flight Analysis Code
-	b. Cleaning Data
-	c. Maps
-	d. Data Plots
+1. Final Files Jupyter Notebook - Five Files\
+	a. Final Flight Analysis Code\
+	b. Cleaning Data\
+	c. Maps\
+	d. Data Plots\
 	e. Statistical Analysis
 ####
-2. Resources Folder
-	a. CSV Files of each departure city and combined table
-	b. Airport codes files
-	c. PTable analysis
-	d. Summary of Findings 
-	e. Presentation
+2. Resources Folder\
+a. CSV Files of each departure city and combined table\
+b. Airport codes files\
+c. PTable analysis\
+d. Summary of Findings\
+e. Presentation
 ####
-3. Imagees
+3. Images
